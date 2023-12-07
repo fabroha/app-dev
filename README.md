@@ -2,7 +2,7 @@
 My first repository 
                                           | Syntax | Description |
                                         | ----------- | ----------- |
-                                          | Header | Title |
+                                          | Header | Title | 
                                          | Paragraph | Text |
 Fenced Code Block	```
 {
