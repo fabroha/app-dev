@@ -29,5 +29,5 @@ the how's of us
 	       That is so sad! :jorge:
 Highlight	                      I need to highlight these ==very important words==.
                     Tangina primo eh matalino akong tao pero pagdating sayo ewan ko natatanga ako
-Subscript	H~2~O
-Superscript	X^2^
+Subscript	 H~2~O
+Superscript	 X^2^
